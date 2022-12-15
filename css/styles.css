@@ -49,3 +49,12 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+.features-div {
+  text-align: center;
+}
+
+.feature-icons {
+  color: #ff4c68;
+  font-size: 2rem;
+}
