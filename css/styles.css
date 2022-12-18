@@ -18,6 +18,15 @@ h1 {
   font-weight: 900;
 }
 
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
 /* Navbar */
 
 .navbar {
@@ -50,11 +59,28 @@ h1 {
   transform: rotate(25deg);
 }
 
+/* Features Section */
+
+#features {
+  padding: 7% 15%;
+}
+
 .features-div {
   text-align: center;
+  padding: 5%;
 }
 
 .feature-icons {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-icons:hover {
   color: #ff4c68;
-  font-size: 2rem;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 7% 15%;
 }
